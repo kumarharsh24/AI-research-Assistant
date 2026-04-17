@@ -14,7 +14,8 @@ It is organized as a modular Python codebase so each concern (UI, agent logic, t
 ## One-Line Summary
 
 Multi-tool Gemini agent that routes questions between direct LLM reasoning, document retrieval, and web search while preserving chat context.
-
+Built a Gemini-powered multi-tool AI agent with conversational memory, RAG-based PDF retrieval, and real-time web search using LangChain, FAISS, Tavily, and Streamlit.  
+Live Demo: https://ai-research-assistant-ixynu3txmzmshzvsjtmvet.streamlit.app/
 ## Architecture
 
 ```mermaid
