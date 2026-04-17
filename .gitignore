@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+.conda/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
+
+# Environment
+.env
+.env.*
+
+# RAG artifacts
+data/faiss_index/
+
+# IDE
+.vscode/
+.idea/
+
+# Local setup artifacts
+conda_create.log
+pip_install.log
+pip_upgrade.log
